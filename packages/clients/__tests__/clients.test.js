@@ -3,5 +3,5 @@
 const clients = require('..');
 
 describe('clients', () => {
-    it('needs tests');
+    it('needs tests more fixes');
 });
