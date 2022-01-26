@@ -4,5 +4,5 @@ module.exports = auth;
 
 function auth() {
     // TODO
-    console.log('This is auth')
+    console.log('This is auth fix')
 }
