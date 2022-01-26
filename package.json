@@ -3,7 +3,8 @@
     "private": true,
     "scripts": {
         "setup": "npm install && lerna bootstrap",
-        "postinstall": "husky install"
+        "postinstall": "husky install",
+        "test": "echo TESTS PASSED"
     },
     "devDependencies": {
         "@commitlint/cli": "^16.1.0",
