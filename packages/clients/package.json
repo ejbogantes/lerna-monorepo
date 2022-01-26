@@ -1,26 +1,26 @@
 {
-  "name": "clients",
-  "version": "0.1.0",
-  "description": "> TODO: description",
-  "author": "Emilio Bogantes <emilio.bogantes@edify.cr>",
-  "homepage": "https://github.com/ejbogantes/lerna-monorepo#readme",
-  "license": "ISC",
-  "main": "lib/clients.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://ejbogantes@github.com/ejbogantes/lerna-monorepo.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/ejbogantes/lerna-monorepo/issues"
-  }
+    "name": "clients",
+    "version": "0.1.2-beta.0",
+    "description": "> TODO: description",
+    "author": "Emilio Bogantes <emilio.bogantes@edify.cr>",
+    "homepage": "https://github.com/ejbogantes/lerna-monorepo#readme",
+    "license": "ISC",
+    "main": "lib/clients.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://ejbogantes@github.com/ejbogantes/lerna-monorepo.git"
+    },
+    "scripts": {
+        "test": "echo TESTS PASSED"
+    },
+    "bugs": {
+        "url": "https://github.com/ejbogantes/lerna-monorepo/issues"
+    }
 }
