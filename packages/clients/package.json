@@ -1,6 +1,6 @@
 {
     "name": "clients",
-    "version": "0.1.0",
+    "version": "0.1.2-beta.0",
     "description": "> TODO: description",
     "author": "Emilio Bogantes <emilio.bogantes@edify.cr>",
     "homepage": "https://github.com/ejbogantes/lerna-monorepo#readme",
