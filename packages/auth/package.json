@@ -1,6 +1,6 @@
 {
   "name": "auth",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Auth package",
   "author": "Emilio Bogantes <emilio.bogantes@edify.cr>",
   "homepage": "https://github.com/ejbogantes/lerna-monorepo#readme",
